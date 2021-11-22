@@ -19,6 +19,10 @@ Install pytest
 pip install -U pytest
 ```
 
+Check pytest
+```
+pytest --version
+```
 
 # Activate env
 Activate env
