@@ -29,3 +29,11 @@ Activate env
 ``` 
 conda activate tinyproj
 ```
+
+
+# Git commands
+
+Create local branch
+```
+git checkout -b "NameOfBranch"
+```
