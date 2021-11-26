@@ -16,7 +16,7 @@ def hello(name):
 
 def main():
     args = get_args()
-    hello(args.name)
+    print(hello(args.name))
 
 if __name__ == '__main__':
     main()
