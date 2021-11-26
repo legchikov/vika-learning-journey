@@ -37,3 +37,10 @@ Create local branch
 ```
 git checkout -b "NameOfBranch"
 ```
+
+# Using hello.py
+
+How to run hello.py
+```
+python3 hello.py --name ExapmleName
+```
