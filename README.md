@@ -1,5 +1,10 @@
 ```Vika learning journey repo```
 
+# Это репозиторий задач для изучения Python и Pytest
+По книге Ken Youens-Clark Tiny Python Projects
+Ссылка на гитхаб - https://github.com/kyclark/tiny_python_projects
+
+
 # Prepare Conda env (single run)
 installing link
  https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html
@@ -38,9 +43,4 @@ Create local branch
 git checkout -b "NameOfBranch"
 ```
 
-# Using hello.py
 
-How to run hello.py
-```
-python3 hello.py --name ExapmleName
-```
